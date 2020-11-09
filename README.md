@@ -1,1 +1,1 @@
-# speedtest_gui
+Speedtest GUI with Python
